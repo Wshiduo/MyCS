@@ -5,6 +5,7 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.os.Handler;
+import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 public class FullscreenActivity extends AppCompatActivity {
@@ -71,6 +72,11 @@ public class FullscreenActivity extends AppCompatActivity {
         });
 
         findViewById(R.id.dummy_button).setOnTouchListener(mDelayHideTouchListener);
+        CS();
+    }
+
+    private void CS() {
+        Log.d("1", "LocalMaster");
     }
 
     @Override
