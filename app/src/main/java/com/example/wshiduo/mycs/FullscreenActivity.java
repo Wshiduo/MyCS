@@ -76,7 +76,7 @@ public class FullscreenActivity extends AppCompatActivity {
     }
 
     private void CS() {
-        Log.d("1", "LocalMaster");
+        Log.d("1", "Remote_Master");
     }
 
     @Override
