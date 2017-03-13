@@ -76,22 +76,8 @@ public class FullscreenActivity extends AppCompatActivity {
     }
 
     private void CS() {
-        Log.d("1", "Remote_Master to 2 new remote_Branch");
-        Log.d("0", "Remote_Master to 2 new remote_Branch");
-        Log.d("2", "Remote_Master to 2 new remote_Branch");
-        Log.d("3", "Remote_Master to 2 new remote_Branch");
-        Log.d("4", "Remote_Master to 2 new remote_Branch");
-        Log.d("5", "Remote_Master to 2 new remote_Branch");
-        Log.d("6", "Remote_Master to 2 new remote_Branch");
-        Log.d("7", "Remote_Master to 2 new remote_Branch");
-        Log.d("8", "Remote_Master to 2 new remote_Branch");
-        Log.d("9", "Remote_Master to 2 new remote_Branch");
-        Log.d("10", "Remote_Master to 2 new remote_Branch");
-        Log.d("10", "Remote_Master to 2 new remote_Branch");
-        Log.d("12", "Remote_Master to 2 new remote_Branch");
-        Log.d("12", "Remote_Master to 2 new remote_Branch");
-        Log.d("13", "Remote_Master to 2 new remote_Branch");
-        Log.d("14", "Remote_Master to 2 new remote_Branch");
+
+        Log.d("22", "finish");
     }
 
     @Override
