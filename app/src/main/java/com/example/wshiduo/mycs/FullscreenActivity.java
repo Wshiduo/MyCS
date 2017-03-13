@@ -85,6 +85,7 @@ public class FullscreenActivity extends AppCompatActivity {
         Log.d("6", "Remote_Master to 2 new remote_Branch");
         Log.d("7", "Remote_Master to 2 new remote_Branch");
         Log.d("8", "Remote_Master to 2 new remote_Branch");
+        Log.d("9", "Remote_Master to 2 new remote_Branch");
     }
 
     @Override
