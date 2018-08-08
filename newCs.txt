@@ -7,3 +7,7 @@ git config --global  http.proxy http://10.136.
 
 
 爽肤水
+<<<<<<< HEAD
+=======
+胜多负少
+>>>>>>> ddc8455b018b749b332735e7a8218fb0360f114d
