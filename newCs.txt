@@ -1,4 +1,0 @@
-git config --global  http.proxy http://10.136.130.53:808
-是否是否三
-git config --global  http.proxy http://10.136.130.53:808
-是否是否三
