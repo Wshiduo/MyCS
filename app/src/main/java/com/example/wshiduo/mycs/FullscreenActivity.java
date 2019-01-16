@@ -78,6 +78,7 @@ public class FullscreenActivity extends AppCompatActivity {
     private void CS() {
 
         Log.d("22", "finish");
+        Log.d("22", "finish");
     }
 
     @Override
