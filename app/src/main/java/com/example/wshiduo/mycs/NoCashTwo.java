@@ -1,5 +1,6 @@
 package com.example.wshiduo.mycs;
 
+import android.util.Log;
 import java.util.logging.Logger;
 
 /**
@@ -12,6 +13,7 @@ public class NoCashTwo {
 
   public void doIt(){
     Logger.getLogger("");
+    Log.e("Tag", "");
 
   }
 }
