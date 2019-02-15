@@ -1,6 +1,5 @@
 package com.example.wshiduo.mycs;
 
-import android.util.Log;
 import java.util.logging.Logger;
 
 /**
@@ -9,7 +8,7 @@ import java.util.logging.Logger;
  * 描  述：
  * 版本号：1.0
  */
-public class NoCash {
+public class NoCashTwo {
 
   public void doIt(){
     Logger.getLogger("");

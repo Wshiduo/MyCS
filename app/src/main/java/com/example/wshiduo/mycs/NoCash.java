@@ -13,5 +13,6 @@ public class NoCash {
 
   public void doIt(){
     Logger.getLogger("");
+    Logger.getLogger("");
   }
 }
