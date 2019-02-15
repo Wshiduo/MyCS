@@ -14,7 +14,6 @@ public class NoCashTwos {
   public void doIt(){
     Logger.getLogger("");
     Log.e("Tag", "");
-    Log.e("Tag", "");
 
   }
 }
