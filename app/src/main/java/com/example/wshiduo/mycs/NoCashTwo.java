@@ -12,6 +12,6 @@ public class NoCashTwo {
 
   public void doIt(){
     Logger.getLogger("");
-    Logger.getLogger("");
+
   }
 }
