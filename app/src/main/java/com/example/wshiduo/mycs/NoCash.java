@@ -12,8 +12,6 @@ import java.util.logging.Logger;
 public class NoCash {
 
   public void doIt(){
-    Logger.getLogger("");
-    Logger.getLogger("");
-    Logger.getLogger("sfsfsfsdffsfsd");
+    Logger.getLogger("thirdBranch");
   }
 }
